@@ -41,6 +41,10 @@ h1:first-child {
 h1:nth-child(2){
     font-size: 30px;
 }
+
+blockquote {
+    background-color: #242323;
+}
   
  .importbg {
         background-image: url(bg.png);
@@ -2268,6 +2272,11 @@ h1:first-child {
 h1:nth-child(2){
     font-size: 30px;
 }
+
+blockquote {
+    background-color: #242323;
+}
+  
       
      .importbg {
             background-image: url(bg.png);
