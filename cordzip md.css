@@ -34,8 +34,8 @@ body {
     text-decoration:none;
 }
 
-p:first-child {
-    font-size: 30px;
+a:first-child {
+    display:none;
 }
 
   
