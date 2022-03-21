@@ -42,7 +42,10 @@ h1:nth-child(2){
     font-size: 30px;
 }
 
-
+h2 {
+    font-size: 16px;
+    color: #00d1b2;
+}
 .markdown-body .highlight pre, .markdown-body pre,
 .highlight {
     background-color: #242323;
@@ -2275,6 +2278,10 @@ h1:nth-child(2){
     font-size: 30px;
 }
 
+h2 {
+    font-size: 16px;
+    color: #00d1b2;
+}
 .markdown-body .highlight pre, .markdown-body pre,
 .highlight {
     background-color: #242323;
