@@ -38,6 +38,9 @@ body {
 h1:first-child {
     display: none;
 }
+h1:nth-child(2){
+    font-size: 30px;
+}
   
  .importbg {
         background-image: url(bg.png);
@@ -2260,6 +2263,10 @@ hr {
     
 h1:first-child {
     display: none;
+}
+
+h1:nth-child(2){
+    font-size: 30px;
 }
       
      .importbg {
