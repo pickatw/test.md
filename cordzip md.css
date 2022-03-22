@@ -38,6 +38,7 @@ body {
 h1:first-child {
     display: none;
 }
+
 h1:nth-child(2){
     font-size: 30px;
 }
